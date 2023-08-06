@@ -3,5 +3,13 @@
         "${env:GDK}\\res",
     "res",
     "inc"
-]
+],
+"files.associations": {
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c"
+}
 }
